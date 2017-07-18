@@ -1,0 +1,8 @@
+title: "MGMT-6560 Technology Fundamentals for Business Analytics "
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
