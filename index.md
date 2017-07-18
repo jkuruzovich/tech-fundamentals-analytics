@@ -1,9 +1,8 @@
 ## Welcome to Technology Fundamentals of Business Analytics
 This page is designed to include the details of the semester. You should always look at the latest version here and not download this offline.  First here are a list of useful links:
 
-- [Syllabus, Presentations, Notebooks, Docker Container for Data Science](https://github.com/AnalyticsDojo/materials) are located in the /AnalyticsDojo/Materials repository.
 - [RPI LMS (Blackboard)](https://lms9.rpi.edu) should be used to submit all assignments. 
-- [Piazza](http://piazza.com/rpi/fall2016/mgmt6963) should be used for problems with course assignment and communications with instructor.
+- [Slack](http://piazza.com/rpi/fall2016/mgmt6963) should be used for problems with course assignment and communications with instructor.
 - [Chat](https://gitter.im/AnalyticsDojo/rpi) with other students regarding analytics.
 - [rpi.analyticsdojo.com](http://rpi.analyticsdojo.com) will be used for much of the content etc. 
 - [Microsoft Azure Machine Learning](https://studio.azureml.net)
